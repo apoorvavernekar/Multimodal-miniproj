@@ -1,4 +1,4 @@
-# Multimodal-miniproj
+# Multimodal Representation Learning for Emotion Recognition
 Human-computer interaction (HCI) has made a greater impact in today’s world. So considering a
 user’s emotional status improves the human-computer interface. During communication, humans
 exhibit a rich content of emotions through different modalities. Multimodal solutions are studied
